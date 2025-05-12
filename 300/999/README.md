@@ -77,6 +77,9 @@ A workitem is:
 
 Here is an example of **flow-developing-an-internal-security-roadmap.md**:
 
+foofoofoofoofoofooo
+
+
 <table>
   <tr>
     <th colspan=5 text-align=center>FLOW: DEVELOPING AN INTERNAL SECURITY ROADMAP</th>
@@ -97,7 +100,7 @@ Here is an example of **flow-developing-an-internal-security-roadmap.md**:
     <td></td><td colspan=4>Task: Outline your 'Securing the Foundation' approach, identifying key priorities, risks, and resources required.</td>|
   </tr>
   <tr>
-    <td></td><td>Think It</td><td>Speak It</td><td>Act</td><td>It Happens</td>
+    <td></td><td>&#x2022; Think It</td><td>&#x2022; Speak It</td><td>&#x2022; Act</td><td>&#x2022; It Happens</td>
   </tr>
   <tr>
     <td>Make a Decision:<br/>(Outcome: Decision)</td><td colspan=4>You're determining which security elements to prioritize, what risks matter most, and how to allocate resources - all decision-making activities.</td>
@@ -109,7 +112,7 @@ Here is an example of **flow-developing-an-internal-security-roadmap.md**:
     <td></td><td colspan=4>Task: Develop a preliminary timeline with phases or your roadmap.</td>
   </tr>
   <tr>
-    <td></td><td>Think It</td><td>Speak It</td><td>Act</td><td>It Happens</td>
+    <td></td><td>&#x2022; Think It</td><td>&#x2022; Speak It</td><td>&#x2022; Act</td><td>&#x2022; It Happens</td>
   </tr>
   <tr>
     <td>Make a Decision:<br/>(Outcome: Decision)</td><td colspan=4>Creating a timeline requires deciding on sequence, duration, and importance of different security initiatives.</td>
