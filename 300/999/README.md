@@ -88,7 +88,7 @@ Here is an example of **flow-developing-an-internal-security-roadmap.md**:
     <td></td><td>Think It</td><td>Speak It</td><td>Act</td><td>It Happens</td>
   </tr>
   <tr>
-    <td>Learn a System: (Outcome: Knowledge)</td><td colspan=4>This involves researching and understanding the current security infrastructure and organizational objectives - clearly a learning activity to comprehend existing systems.</td>
+    <td>Learn a System:<br/>(Outcome: Knowledge)</td><td colspan=4>This involves researching and understanding the current security infrastructure and organizational objectives - clearly a learning activity to comprehend existing systems.</td>
   </tr>
   <tr>
     <td>Learning/Creating:</td><td colspan=4>You're absorbing information from existing materials to build your knowledge base.</td>
@@ -112,7 +112,7 @@ Here is an example of **flow-developing-an-internal-security-roadmap.md**:
     <td></td><td>Think It</td><td>Speak It</td><td>Act</td><td>It Happens</td>
   </tr>
   <tr>
-    <td>Make a Decision: (Outcome: Decision)</td><td colspan=4>Creating a timeline requires deciding on sequence, duration, and importance of different security initiatives.</td>
+    <td>Make a Decision:<br/>(Outcome: Decision)</td><td colspan=4>Creating a timeline requires deciding on sequence, duration, and importance of different security initiatives.</td>
   </tr>
   <tr>
    <td>Planning</td><td colspan=4>You're establishing the sequence and duration of activities in your security initiative.</td>
