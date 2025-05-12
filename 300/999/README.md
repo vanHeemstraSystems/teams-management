@@ -58,12 +58,15 @@ The markdown file of ```flow-[NAME].md``` contains a table in which all workitem
 | FLOW: [NAME] |
 | --- |
 | Task: DESCRIPTION |
+| Think It | Speak It | Act | It Happens |
 | Make a Decision: (Outcome: Decision) / Solve a Problem: (Outcome: Solution) / Learn a System: (Outcome: Knowledge) | EXPLANATION |
 | Planning / Scheduling / Learning/Creating | EXPLANATION |
 | Task: DESCRIPTION |
+| Think It | Speak It | Act | It Happens |
 | Make a Decision: (Outcome: Decision) / Solve a Problem: (Outcome: Solution) / Learn a System: (Outcome: Knowledge) | EXPLANATION |
 | Planning / Scheduling / Learning/Creating | EXPLANATION |
 | Task: DESCRIPTION |
+| Think It | Speak It | Act | It Happens |
 | Make a Decision: (Outcome: Decision) / Solve a Problem: (Outcome: Solution) / Learn a System: (Outcome: Knowledge) | EXPLANATION |
 | Planning / Scheduling / Learning/Creating | EXPLANATION |
 ```
@@ -72,3 +75,19 @@ A workitem is:
 
 > A task that a participant can process within a collaboration.
 
+Here is an example of **flow-developing-an-internal-security-roadmap.md**:
+
+| FLOW: DEVELOPING AN INTERNAL SECURITY ROADMAP |
+| --- |
+| Task: Gather existing documentation on the ART's current security framework and organizational strategic goals. |
+| Think It | Speak It | Act | It Happens |
+| Learn a System: (Outcome: Knowledge) | This involves researching and understanding the current security infrastructure and organizational objectives - clearly a learning activity to comprehend existing systems. |
+| Learning/Creating | You're absorbing information from existing materials to build your knowledge base. |
+| Task: DESCRIPTION |
+| Think It | Speak It | Act | It Happens |
+| Make a Decision: (Outcome: Decision) / Solve a Problem: (Outcome: Solution) / Learn a System: (Outcome: Knowledge) | EXPLANATION |
+| Planning / Scheduling / Learning/Creating | EXPLANATION |
+| Task: DESCRIPTION |
+| Think It | Speak It | Act | It Happens |
+| Make a Decision: (Outcome: Decision) / Solve a Problem: (Outcome: Solution) / Learn a System: (Outcome: Knowledge) | EXPLANATION |
+| Planning / Scheduling / Learning/Creating | EXPLANATION |
