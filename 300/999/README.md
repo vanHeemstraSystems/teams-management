@@ -145,3 +145,13 @@ Here is an example of **flow-developing-an-internal-security-roadmap.md**:
    <td>Planning</td><td colspan=4>You're establishing the sequence and duration of activities in your security initiative.</td>
   </tr>
 </table>
+
+
+This flow table can be printed and attached to the side of your laptop computer for ease of reference.
+
+![Image](https://github.com/user-attachments/assets/843c3ba1-db82-487e-bde8-921ffc6e3e2a)
+
+**TIP**: 
+
+- Punch two holes along the long side of the laminated A4 sheet to store it in a ring binder with other sheets.
+- Use the **[notetower](https://www.notetower.com/)** clip to hold the sheet whilst clipping it to the laptop computer.
