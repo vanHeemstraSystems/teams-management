@@ -77,9 +77,6 @@ A workitem is:
 
 Here is an example of **flow-developing-an-internal-security-roadmap.md**:
 
-foofoofoofoofoofooo
-
-
 <table>
   <tr>
     <th colspan=5 text-align=center>FLOW: DEVELOPING AN INTERNAL SECURITY ROADMAP</th>
@@ -97,7 +94,7 @@ foofoofoofoofoofooo
     <td>Learning/Creating:</td><td colspan=4>You're absorbing information from existing materials to build your knowledge base.</td>
   </tr>
   <tr>
-    <td></td><td colspan=4>Task: Outline your 'Securing the Foundation' approach, identifying key priorities, risks, and resources required.</td>|
+    <td></td><td colspan=4>Task: Outline your 'Securing the Foundation' approach, identifying key priorities, risks, and resources required.</td>
   </tr>
   <tr>
     <td></td><td>&#x2022; Think It</td><td>&#x2022; Speak It</td><td>&#x2022; Act</td><td>&#x2022; It Happens</td>
