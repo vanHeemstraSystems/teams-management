@@ -55,20 +55,20 @@ An example of a flow is **Developing An Internal Security Roadmap**.
 The markdown file of ```flow-[NAME].md``` contains a table in which all workitems are listed in a chronological order (from top to bottom), like so:
 
 ```
-| FLOW: [NAME] |
-| --- |
-| Task: DESCRIPTION |
-| Think It | Speak It | Act | It Happens |
-| Make a Decision: (Outcome: Decision) / Solve a Problem: (Outcome: Solution) / Learn a System: (Outcome: Knowledge) | EXPLANATION |
-| Planning / Scheduling / Learning/Creating | EXPLANATION |
-| Task: DESCRIPTION |
-| Think It | Speak It | Act | It Happens |
-| Make a Decision: (Outcome: Decision) / Solve a Problem: (Outcome: Solution) / Learn a System: (Outcome: Knowledge) | EXPLANATION |
-| Planning / Scheduling / Learning/Creating | EXPLANATION |
-| Task: DESCRIPTION |
-| Think It | Speak It | Act | It Happens |
-| Make a Decision: (Outcome: Decision) / Solve a Problem: (Outcome: Solution) / Learn a System: (Outcome: Knowledge) | EXPLANATION |
-| Planning / Scheduling / Learning/Creating | EXPLANATION |
+| <td colspan=5>FLOW: [NAME]</td> |
+| <td colspan=5>---</td> |
+| | <td colspan=4>Task: DESCRIPTION</td> |
+| | Think It | Speak It | Act | It Happens |
+| Make a Decision:<br/>(Outcome: Decision) / Solve a Problem:<br/>(Outcome: Solution) / Learn a System:<br/>(Outcome: Knowledge) | <td colspan=4>EXPLANATION</td> |
+| Planning: / Scheduling: / Learning/Creating: | <td colspan=4>EXPLANATION</td> |
+| | <td colspan=4>Task: DESCRIPTION</td> |
+| | Think It | Speak It | Act | It Happens |
+| Make a Decision:<br/>(Outcome: Decision) / Solve a Problem:<br/>(Outcome: Solution) / Learn a System:<br/>(Outcome: Knowledge) | <td colspan=4>EXPLANATION</td> |
+| Planning: / Scheduling: / Learning/Creating: | <td colspan=4>EXPLANATION</td> |
+| | <td colspan=4>Task: DESCRIPTION</td> |
+| | Think It | Speak It | Act | It Happens |
+| Make a Decision:<br/>(Outcome: Decision) / Solve a Problem:<br/>(Outcome: Solution) / Learn a System:<br/>(Outcome: Knowledge) | <td colspan=4>EXPLANATION</td> |
+| Planning: / Scheduling: / Learning/Creating: | <td colspan=4>EXPLANATION</td> |
 ```
 
 A workitem is:
@@ -81,12 +81,12 @@ Here is an example of **flow-developing-an-internal-security-roadmap.md**:
 | <td colspan=5>---</td> |
 | | <td colspan=4>Task: Gather existing documentation on the ART's current security framework and organizational strategic goals.</td> |
 | | Think It | Speak It | Act | It Happens |
-| Learn a System: (Outcome: Knowledge) | <td colspan=3>This involves researching and understanding the current security infrastructure and organizational objectives - clearly a learning activity to comprehend existing systems.</td> |
-| Learning/Creating | You're absorbing information from existing materials to build your knowledge base. |||
-| Task: DESCRIPTION ||||
-| Think It | Speak It | Act | It Happens |||
-| Make a Decision: (Outcome: Decision) / Solve a Problem: (Outcome: Solution) / Learn a System: (Outcome: Knowledge) | EXPLANATION |||
-| Planning / Scheduling / Learning/Creating | EXPLANATION |||
+| Learn a System: (Outcome: Knowledge) | <td colspan=4>This involves researching and understanding the current security infrastructure and organizational objectives - clearly a learning activity to comprehend existing systems.</td> |
+| Learning/Creating: | <td colspan=4>You're absorbing information from existing materials to build your knowledge base. |||
+| | <td colspan=4>Task: DESCRIPTION</td>|
+| | Think It | Speak It | Act | It Happens |||
+| Make a Decision:<br/>(Outcome: Decision) | <td colspan=4>EXPLANATION</td>|
+| Planning: | EXPLANATION |||
 | Task: DESCRIPTION ||||
 | Think It | Speak It | Act | It Happens |||
 | Make a Decision: (Outcome: Decision) / Solve a Problem: (Outcome: Solution) / Learn a System: (Outcome: Knowledge) | EXPLANATION |||
