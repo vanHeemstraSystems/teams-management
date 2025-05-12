@@ -55,20 +55,47 @@ An example of a flow is **Developing An Internal Security Roadmap**.
 The markdown file of ```flow-[NAME].md``` contains a table in which all workitems are listed in a chronological order (from top to bottom), like so:
 
 ```
-| <td colspan=5>FLOW: [NAME]</td> |
-| <td colspan=5>---</td> |
-| | <td colspan=4>Task: DESCRIPTION</td> |
-| | Think It | Speak It | Act | It Happens |
-| Make a Decision:<br/>(Outcome: Decision) / Solve a Problem:<br/>(Outcome: Solution) / Learn a System:<br/>(Outcome: Knowledge) | <td colspan=4>EXPLANATION</td> |
-| Planning: / Scheduling: / Learning/Creating: | <td colspan=4>EXPLANATION</td> |
-| | <td colspan=4>Task: DESCRIPTION</td> |
-| | Think It | Speak It | Act | It Happens |
-| Make a Decision:<br/>(Outcome: Decision) / Solve a Problem:<br/>(Outcome: Solution) / Learn a System:<br/>(Outcome: Knowledge) | <td colspan=4>EXPLANATION</td> |
-| Planning: / Scheduling: / Learning/Creating: | <td colspan=4>EXPLANATION</td> |
-| | <td colspan=4>Task: DESCRIPTION</td> |
-| | Think It | Speak It | Act | It Happens |
-| Make a Decision:<br/>(Outcome: Decision) / Solve a Problem:<br/>(Outcome: Solution) / Learn a System:<br/>(Outcome: Knowledge) | <td colspan=4>EXPLANATION</td> |
-| Planning: / Scheduling: / Learning/Creating: | <td colspan=4>EXPLANATION</td> |
+<table>
+  <tr>
+    <th colspan=5 text-align=center>FLOW: [NAME]</th>
+  </tr>
+  <tr>
+    <td></td><td colspan=4>Task: [DESCRIPTION].</td>
+  </tr>
+  <tr>
+    <td></td><td>&#x2022; Think It</td><td>&#x2022; Speak It</td><td>&#x2022; Act</td><td>&#x2022; It Happens</td>
+  </tr>
+  <tr>
+    <td>Learn a System:<br/>(Outcome: Knowledge)</td><td colspan=4>[EXPLANATION].</td>
+  </tr>
+  <tr>
+    <td>Learning/Creating:</td><td colspan=4>[EXPLANATION].</td>
+  </tr>
+  <tr>
+    <td></td><td colspan=4>Task: [DESCRIPTION].</td>
+  </tr>
+  <tr>
+    <td></td><td>&#x2022; Think It</td><td>&#x2022; Speak It</td><td>&#x2022; Act</td><td>&#x2022; It Happens</td>
+  </tr>
+  <tr>
+    <td>Make a Decision:<br/>(Outcome: Decision)</td><td colspan=4>[EXPLANANTION].</td>
+  </tr>
+  <tr>
+    <td>Planning:</td><td colspan=4>[EXPLANATION].</td>
+  </tr>
+  <tr>
+    <td></td><td colspan=4>Task: [DESCRIPTION].</td>
+  </tr>
+  <tr>
+    <td></td><td>&#x2022; Think It</td><td>&#x2022; Speak It</td><td>&#x2022; Act</td><td>&#x2022; It Happens</td>
+  </tr>
+  <tr>
+    <td>Solve a Problem:<br/>(Outcome: Solution)</td><td colspan=4>[EXPLANATION].</td>
+  </tr>
+  <tr>
+   <td>Scheduling</td><td colspan=4>[EXPLANATION].</td>
+  </tr>
+</table>
 ```
 
 A workitem is:
