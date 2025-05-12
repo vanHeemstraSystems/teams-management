@@ -1,5 +1,5 @@
-repository-name
-# Repository Name
+teams-management
+# Teams Management
 
 > Slugline
 
