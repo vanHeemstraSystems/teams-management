@@ -77,11 +77,11 @@ A workitem is:
 
 Here is an example of **flow-developing-an-internal-security-roadmap.md**:
 
-| FLOW: DEVELOPING AN INTERNAL SECURITY ROADMAP | | | |
-| --- | | | |
-| Task: Gather existing documentation on the ART's current security framework and organizational strategic goals. | | | |
-| Think It | Speak It | Act | It Happens |
-| Learn a System: (Outcome: Knowledge) | This involves researching and understanding the current security infrastructure and organizational objectives - clearly a learning activity to comprehend existing systems. | | |
+| <td colspan=5>FLOW: DEVELOPING AN INTERNAL SECURITY ROADMAP</td>|
+| <td colspan=5>---</td> |
+| | <td colspan=4>Task: Gather existing documentation on the ART's current security framework and organizational strategic goals.</td> |
+| | Think It | Speak It | Act | It Happens |
+| Learn a System: (Outcome: Knowledge) | <td colspan=3>This involves researching and understanding the current security infrastructure and organizational objectives - clearly a learning activity to comprehend existing systems.</td> |
 | Learning/Creating | You're absorbing information from existing materials to build your knowledge base. |||
 | Task: DESCRIPTION ||||
 | Think It | Speak It | Act | It Happens |||
