@@ -77,17 +77,44 @@ A workitem is:
 
 Here is an example of **flow-developing-an-internal-security-roadmap.md**:
 
-| <td colspan=5>FLOW: DEVELOPING AN INTERNAL SECURITY ROADMAP</td>|
-| <td colspan=5>---</td> |
-| | <td colspan=4>Task: Gather existing documentation on the ART's current security framework and organizational strategic goals.</td> |
-| | Think It | Speak It | Act | It Happens |
-| Learn a System: (Outcome: Knowledge) | <td colspan=4>This involves researching and understanding the current security infrastructure and organizational objectives - clearly a learning activity to comprehend existing systems.</td> |
-| Learning/Creating: | <td colspan=4>You're absorbing information from existing materials to build your knowledge base. |||
-| | <td colspan=4>Task: DESCRIPTION</td>|
-| | Think It | Speak It | Act | It Happens |||
-| Make a Decision:<br/>(Outcome: Decision) | <td colspan=4>EXPLANATION</td>|
-| Planning: | EXPLANATION |||
-| Task: DESCRIPTION ||||
-| Think It | Speak It | Act | It Happens |||
-| Make a Decision: (Outcome: Decision) / Solve a Problem: (Outcome: Solution) / Learn a System: (Outcome: Knowledge) | EXPLANATION |||
-| Planning / Scheduling / Learning/Creating | EXPLANATION |||
+<table>
+  <tr>
+    <td colspan=5>FLOW: DEVELOPING AN INTERNAL SECURITY ROADMAP</td>
+  </tr>
+  <tr>
+    <td></td><td colspan=4>Task: Gather existing documentation on the ART's current security framework and organizational strategic goals.</td>
+  </tr>
+  <tr>
+    <td></td><td>Think It</td><td>Speak It</td><td>Act</td><td>It Happens</td>
+  </tr>
+  <tr>
+    <td>Learn a System: (Outcome: Knowledge)</td><td colspan=4>This involves researching and understanding the current security infrastructure and organizational objectives - clearly a learning activity to comprehend existing systems.</td>
+  </tr>
+  <tr>
+    <td>Learning/Creating:</td><td colspan=4>You're absorbing information from existing materials to build your knowledge base.</td>
+  </tr>
+  <tr>
+    <td></td><td colspan=4>Task: Outline your 'Securing the Foundation' approach, identifying key priorities, risks, and resources required.</td>|
+  </tr>
+  <tr>
+    <td></td><td>Think It</td><td>Speak It</td><td>Act</td><td>It Happens</td>
+  </tr>
+  <tr>
+    <td>Make a Decision:<br/>(Outcome: Decision)</td><td colspan=4>You're determining which security elements to prioritize, what risks matter most, and how to allocate resources - all decision-making activities.</td>
+  </tr>
+  <tr>
+    <td>Planning:</td><td colspan=4>You're developing a strategic approach and identifying key elements for implementation.</td>
+  </tr>
+  <tr>
+    <td></td><td colspan=4>Task: Develop a preliminary timeline with phases or your roadmap.</td>
+  </tr>
+  <tr>
+    <td></td><td>Think It</td><td>Speak It</td><td>Act</td><td>It Happens</td>
+  </tr>
+  <tr>
+    <td>Make a Decision: (Outcome: Decision)</td><td>Creating a timeline requires deciding on sequence, duration, and importance of different security initiatives.</td>
+  </tr>
+  <tr>
+   <td>Planning</td><td>You're establishing the sequence and duration of activities in your security initiative.</td>
+  </tr>
+</table>
