@@ -112,9 +112,9 @@ Here is an example of **flow-developing-an-internal-security-roadmap.md**:
     <td></td><td>Think It</td><td>Speak It</td><td>Act</td><td>It Happens</td>
   </tr>
   <tr>
-    <td>Make a Decision: (Outcome: Decision)</td><td>Creating a timeline requires deciding on sequence, duration, and importance of different security initiatives.</td>
+    <td>Make a Decision: (Outcome: Decision)</td><td colspan=4>Creating a timeline requires deciding on sequence, duration, and importance of different security initiatives.</td>
   </tr>
   <tr>
-   <td>Planning</td><td>You're establishing the sequence and duration of activities in your security initiative.</td>
+   <td>Planning</td><td colspan=4>You're establishing the sequence and duration of activities in your security initiative.</td>
   </tr>
 </table>
