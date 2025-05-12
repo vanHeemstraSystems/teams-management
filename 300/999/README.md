@@ -79,7 +79,7 @@ Here is an example of **flow-developing-an-internal-security-roadmap.md**:
 
 <table>
   <tr>
-    <td colspan=5>FLOW: DEVELOPING AN INTERNAL SECURITY ROADMAP</td>
+    <th colspan=5 text-align=center>FLOW: DEVELOPING AN INTERNAL SECURITY ROADMAP</th>
   </tr>
   <tr>
     <td></td><td colspan=4>Task: Gather existing documentation on the ART's current security framework and organizational strategic goals.</td>
