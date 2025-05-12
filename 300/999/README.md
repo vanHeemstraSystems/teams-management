@@ -85,7 +85,7 @@ Here is an example of **flow-developing-an-internal-security-roadmap.md**:
     <td></td><td colspan=4>Task: Gather existing documentation on the ART's current security framework and organizational strategic goals.</td>
   </tr>
   <tr>
-    <td></td><td>Think It</td><td>Speak It</td><td>Act</td><td>It Happens</td>
+    <td></td><td>&#x2022; Think It</td><td>&#x2022; Speak It</td><td>&#x2022; Act</td><td>&#x2022; It Happens</td>
   </tr>
   <tr>
     <td>Learn a System:<br/>(Outcome: Knowledge)</td><td colspan=4>This involves researching and understanding the current security infrastructure and organizational objectives - clearly a learning activity to comprehend existing systems.</td>
