@@ -37,11 +37,11 @@ PI YYQ##.[SprintNr]
   - Theme: [Theme]
 
       - Category:
-           - Sub category: (Un)committed, expected in Sprint YYQ##.[SprintNr]
-           - Sub category: (Un)committed, expected in Sprint YYQ##.[SprintNr]
+           - Sub category: (Un)committed, expected in Sprint YYQ##.[SprintNr] ([Link to Feature/Issue/Bug Nr])
+           - Sub category: (Un)committed, expected in Sprint YYQ##.[SprintNr] ([Link to Feature/Issue/Bug Nr])
 
       - Category:
-           - Sub category: (Un)committed, expected in Sprint YYQ##.[SprintNr]
+           - Sub category: (Un)committed, expected in Sprint YYQ##.[SprintNr] ([Link to Feature/Issue/Bug Nr])
 ```
 
 Save the new event, it should show in MS Teams Calendar (provided you have the Team's Calendar visible).
