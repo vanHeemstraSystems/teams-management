@@ -46,4 +46,11 @@ PI YYQ##.[SprintNr]
 
 Save the new event, it should show in MS Teams Calendar (provided you have the Team's Calendar visible).
 
+The information about the PI should match what is presented in the PI report out:
+
+<table>
+<th colspan="8">PI YYQ##.[SprintNr] - PIPE report out </th><tr/>
+<td>Confidence vote</td>##/5<td colspan="6"></td><tr/>
+</table>
+
 Now you can lookup what the Team is working on during the Sprint and contact them easily based on the information contained in the event.
