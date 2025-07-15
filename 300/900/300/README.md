@@ -54,7 +54,10 @@ The information about the PI should match what is presented in the PI report out
 <td>Strategic Objective</td><td>PI Objective</td><td colspan="5">Committment</td><td>Risk, Dependencies, Remarks</td><tr/>
 <td></td><td></td><td>ART</td><td>Team A</td><td>Team B</td><td>Team C</td><td>Expected in Sprint</td><td></td><tr/>
 <td>Theme: ABC</td><td colspan="7"></td><tr/>
-<td>Category Description</td><td>Sub-category Description</td><td>(UN)COMMITTED</td><td>blank/blue/green</td><td>blank/blue/green</td><td>blank/blue/green</td><td>YYQ##.[SprintNr]</td><td>[Risk, Dependencies, Remarks]</td><tr/>  
+<td>Category Description</td><td>Sub-category Description</td><td>(UN)COMMITTED/UNPLANNED</td><td>blank/blue/green/red</td><td>blank/blue/green/red</td><td>blank/blue/green/red</td><td>YYQ##.[SprintNr]</td><td>[Risk, Dependencies, Remarks]</td><tr/>  
 </table>
 
+- A **blue** colored cell means "Uncommitted"
+- A **green** colored cell means "Committed"
+- A **red** colored cell means "Unplanned"
 Now you can lookup what the Team is working on during the Sprint and contact them easily based on the information contained in the event.
