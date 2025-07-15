@@ -1,50 +1,12 @@
 # 900 - Teams Management
 
-In order to manage one or more teams, we create a directory on our workspace called "teams".
+## 100 - Teams Directory Management 
 
-```
-root
-├── teams
-│   ├── team-[NAME]
-│   ├── team-[NAME]
-│   ├── team-[NAME]
-│   ├── team-[NAME]
-│   ├── team-[NAME]
-│   ├── team-[NAME]
-│   ├── team-[NAME]
-│   ├── team-[NAME]
-│   └── team-[NAME]
-```
+See [README.md](./100/README.md)
 
-For an easy way to create this diagram of a directory tree structure, see [whoisryosuke/markdown-directory-tree.md](https://gist.github.com/whoisryosuke/813186b07e6c9e4d23593041827a6530)
+## 200 - Teams Flow Management
 
-A team is:
-
-> A number of persons associated together in work or activity.
-
-An example of a team name is **Team Security**.
-
-Inside of a team directory (```team-[NAME]```), we list the following:
-
-```
-root
-├── teams
-│   ├── team-[NAME]
-│   ├── team-[NAME]
-│   ├── team-[NAME]
-│   ├── team-[NAME]
-│   ├── team-[NAME]
-│   ├── team-[NAME]
-│   ├── team-[NAME]
-│   ├── team-[NAME]
-│   └── team-[NAME]
-│       └── flows
-│           ├── flow-[NAME]
-│           ├── flow-[NAME]
-│           └── flow-[NAME]
-│               ├── flow-[NAME].md
-│               └── ...
-```
+See [README.md](./200/README.md)
 
 A flow is: 
 
@@ -155,6 +117,10 @@ This flow table can be printed and attached to the side of your laptop computer 
 
 - Punch two holes along the long side of the laminated A4 sheet to store it in a ring binder with other sheets.
 - Use the **[notetower](https://www.notetower.com/)** clip to hold the sheet whilst clipping it to the laptop computer.
+
+## 300 - Teams Calendar Management
+
+See [README.md](./300/README.md)
 
 
 Continue with **[Flow Management](https://github.com/vanHeemstraSystems/flow-management)** or **[Task Management](https://github.com/vanHeemstraSystems/task-management)**.
