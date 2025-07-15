@@ -52,7 +52,8 @@ The information about the PI should match what is presented in the PI report out
 <th colspan="8">PI YYQ##.[SprintNr] - PIPE report out </th><tr/>
 <td>Confidence vote</td><td>##/5</td><td colspan="6"></td><tr/>
 <td>Strategic Objective</td><td>PI Objective</td><td colspan="5">Committment</td><td>Risk, Dependencies, Remarks</td><tr/>
-<td></td><td></td><td>ART</td><td>Team A</td><td>Team B</td><td>Team C</td><td>Expected in Sprint</td><td></td><tr/>  
+<td></td><td></td><td>ART</td><td>Team A</td><td>Team B</td><td>Team C</td><td>Expected in Sprint</td><td></td><tr/>
+<td>Theme: ABC</td><td colspan="7"></td><tr/>  
 </table>
 
 Now you can lookup what the Team is working on during the Sprint and contact them easily based on the information contained in the event.
