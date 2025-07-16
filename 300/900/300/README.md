@@ -66,4 +66,5 @@ The information about the PI should match what is presented in the [PI](https://
 - A **blue** colored cell means "Uncommitted"
 - A **green** colored cell means "Committed"
 - A **red** colored cell means "Unplanned"
+  
 Now you can lookup what the Team is working on during the Sprint and contact them easily based on the information contained in the event.
