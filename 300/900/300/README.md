@@ -46,7 +46,7 @@ PI YYQ##.[SprintNr]
 
 Save the new event, it should show in MS Teams Calendar (provided you have the Team's Calendar visible).
 
-The information about the PI should match what is presented in the PI report out, created at the [Tactical Planning](https://github.com/vanHeemstraSystems/tactical-planning-management):
+The information about the PI should match what is presented in the PI report out, created at the [Tactical Planning](https://github.com/vanHeemstraSystems/tactical-planning-management) within the Agile Release Train (ART):
 
 <table>
 <th colspan="8">PI YYQ##.[SprintNr] - PIPE report out </th><tr/>
